@@ -40,7 +40,9 @@ nosetests.xml
 
 # Virtual environment
 .python-version
-venv
+venv-flack
 
 # Redis
 dump.rdb
+
+.idea
